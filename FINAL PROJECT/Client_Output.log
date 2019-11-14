@@ -1,0 +1,30 @@
+Client pathName  a
+ Threadpool size  5
+ Client pid  18056
+ Thread 0 copied 21 bytes from b/2.txt to 
+Thread 1 copied 21 bytes from b/2.txt to 
+Thread 2 copied 21 bytes from b/2.txt to 
+Thread 3 copied 21 bytes from b/2.txt to 
+Thread 4 copied 21 bytes from b/2.txt to 
+Total bytes copied = 105
+Client pathName  a
+ Threadpool size  5
+ Client pid  18050
+ Thread 0 copied 9 bytes from c/1.txt to 
+Thread 1 copied 9 bytes from c/1.txt to 
+Thread 2 copied 9 bytes from c/1.txt to 
+Thread 3 copied 9 bytes from c/1.txt to 
+Thread 4 copied 9 bytes from c/1.txt to 
+Total bytes copied = 45
+Client pathName  a
+ Threadpool size  5
+ Client pid  18050
+ Thread 0 copied 9 bytes from c/1.txt to 
+Thread 1 copied 9 bytes from c/1.txt to 
+Thread 2 copied 9 bytes from c/1.txt to 
+Thread 3 copied 9 bytes from c/1.txt to 
+Thread 4 copied 9 bytes from c/1.txt to 
+Total bytes copied = 90
+Client pathName  a
+ Threadpool size  5
+ 
